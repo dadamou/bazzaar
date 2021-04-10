@@ -6,10 +6,10 @@
       "adcolony_rewarded_id" : ""
     },
     "admob" : {
-      "admob_banner_id" : "ca-app-pub-3940256099942544/6300978111",
-      "admob_interstitial_id" : "ca-app-pub-3940256099942544/1033173712",
-      "admob_native_id" : "ca-app-pub-3940256099942544/2247696110",
-      "admob_rewarded_id" : "ca-app-pub-3940256099942544/5224354917",
+      "admob_banner_id" : "",
+      "admob_interstitial_id" : "",
+      "admob_native_id" : "",
+      "admob_rewarded_id" : "",
       "admob_unit_id" : ""
     },
     "appodeal" : {
@@ -20,9 +20,9 @@
       "facebook_interstitial_id" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "facebook_native_id" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
     },
-    "mode_ads_banner" : "facebook",
-    "mode_ads_interstitial" : "facebook",
-    "mode_ads_native_enabled" : true,
+    "mode_ads_banner" : "admob",
+    "mode_ads_interstitial" : "admob",
+    "mode_ads_native_enabled" : false,
     "mode_ads_rewarded" : "admob",
     "mode_button_ads_action" : "0",
     "unity" : {
@@ -45,75 +45,11 @@
   "posts" : [
     {
       "id" : 0,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
-      "state" : "vip",
-      "title" : "dadamou6",
-      "description" : "",
-      "written" : "Test written 0 <br>My written"
-    },
-    {
-      "id" : 1,
       "imageURL" : "https://dadamou.github.io/bazzaar/1024-500.png",
       "state" : "free",
-      "title" : "Test title 1",
-      "description" : "",
-      "written" : "Test written 1"
-    },
-    {
-      "id" : 2,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
-      "state" : "free",
-      "title" : "Test title 2",
-      "description" : "",
-      "written" : "Test written 2"
-    },
-    {
-      "id" : 3,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
-      "state" : "free",
-      "title" : "Test title 3",
-      "description" : "",
-      "written" : "Test written 3"
-    },
-    {
-      "id" : 4,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
-      "state" : "free",
-      "title" : "Test title 4",
-      "description" : "",
-      "written" : "Test written 4"
-    },
-    {
-      "id" : 5,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
-      "state" : "free",
-      "title" : "Test title 5",
-      "description" : "",
-      "written" : "Test written 5"
-    },
-    {
-      "id" : 6,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
-      "state" : "free",
-      "title" : "Test title 6",
-      "description" : "",
-      "written" : "Test written 6"
-    },
-    {
-      "id" : 7,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
-      "state" : "vip",
-      "title" : "Test title 7",
-      "description" : "",
-      "written" : "Test written 7"
-    },
-    {
-      "id" : 8,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
-      "state" : "vip",
-      "title" : "Test title 8",
-      "description" : "",
-      "written" : "Test written 8"
+      "title" : "ABOUT CAFEE BAZAAR",
+      "description" : "IS a platform for the offering of android application and games developed by the avayeh hooshmand hamrah hezardastan company and is currently owned by the hazardastan technology development group.",
+      "written" : "CAFEE BAZAAR <br>My written"
     }
   ]
 }
