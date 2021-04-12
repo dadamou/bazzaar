@@ -6,10 +6,10 @@
       "adcolony_rewarded_id" : ""
     },
     "admob" : {
-      "admob_banner_id" : "ca-app-pub-3940256099942544/6300978111",
-      "admob_interstitial_id" : "ca-app-pub-3940256099942544/1033173712",
-      "admob_native_id" : "ca-app-pub-3940256099942544/2247696110",
-      "admob_rewarded_id" : "ca-app-pub-3940256099942544/5224354917",
+      "admob_banner_id" : "",
+      "admob_interstitial_id" : "",
+      "admob_native_id" : "",
+      "admob_rewarded_id" : "",
       "admob_unit_id" : ""
     },
     "appodeal" : {
@@ -73,9 +73,7 @@
       "state" : "free",
       "title" : "Test title 3",
       "description" : "",
-      "written" : "Cafe Bazaar is striving to provide advantages to other Android stores, whether domestic or abroad, and to optimize and localize our services for Iranian users.
-
-Below are some examples from the broad array of services we provide: Publishing applications and games in Farsi; Providing easy payment services for domestic users; Selected content chosen by Cafe Bazaar editors."
+      "written" : "Cafe Bazaar is striving to provide advantages to other Android stores, whether domestic or abroad, and to optimize and localize our services for Iranian users. Below are some examples from the broad array of services we provide: Publishing applications and games in Farsi; Providing easy payment services for domestic users; Selected content chosen by Cafe Bazaar editors."
     },
     {
       "id" : 4,
