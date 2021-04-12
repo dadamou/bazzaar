@@ -45,9 +45,9 @@
     "posts" : [
     {
       "id" : 0,
-      "imageURL" : "Test title 0",
+      "imageURL" : "",
       "state" : "free",
-      "title" : "dadamou",
+      "title" : "Test title 0",
       "description" : "",
       "written" : "Test written 0 <br>My written"
     },
