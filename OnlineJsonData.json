@@ -45,9 +45,9 @@
     "posts" : [
     {
       "id" : 0,
-      "imageURL" : "",
+      "imageURL" : "https://dadamou.github.io/bazzaar/1024-500.png",
       "state" : "free",
-      "title" : "Test title 0",
+      "title" : "",
       "description" : "",
       "written" : "Test written 0 <br>My written"
     },
