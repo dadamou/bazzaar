@@ -55,7 +55,7 @@
       "id" : 1,
       "imageURL" : "https://dadamou.github.io/bazzaar/About%20Cafe%20Bazaar.png",
       "state" : "free",
-      "title" : "------------------------------------------------------------------------------------------",
+      "title" : "-------------------------------------------------------------------------------------",
       "description" : "",
       "written" : "“Bazaar” is a platform for the offering of Android applications and games developed by the Avayeh Hooshmand Hamrah Hezardastan company and is currently owned by the Hezardastan Technology Development Group."
     },
@@ -63,25 +63,25 @@
       "id" : 2,
       "imageURL" : "https://dadamou.github.io/bazzaar/What%20do%20we%20do.png",
       "state" : "free",
-      "title" : "------------------------------------------------------------------------------------------",
+      "title" : "-------------------------------------------------------------------------------------",
       "description" : "",
       "written" : "Test written 2"
     },
     {
       "id" : 3,
-      "imageURL" : "https://dadamou.github.io/bazzaar/1024-500.png",
+      "imageURL" : "https://dadamou.github.io/bazzaar/Cafe%20Bazaar%20Today.png",
       "state" : "free",
-      "title" : "Test title 3",
+      "title" : "-------------------------------------------------------------------------------------",
       "description" : "",
       "written" : "Cafe Bazaar is striving to provide advantages to other Android stores, whether domestic or abroad, and to optimize and localize our services for Iranian users. Below are some examples from the broad array of services we provide: Publishing applications and games in Farsi; Providing easy payment services for domestic users; Selected content chosen by Cafe Bazaar editors."
     },
     {
       "id" : 4,
-      "imageURL" : "https://dadamou.github.io/bazzaar/1024-500.png",
+      "imageURL" : "https://dadamou.github.io/bazzaar/Shareholders%20and%20firms.png",
       "state" : "free",
-      "title" : "Test title 4",
+      "title" : "-------------------------------------------------------------------------------------",
       "description" : "",
-      "written" : "Test written 4"
+      "written" : "-------------------------------------------------------------------------------------"
     },
     {
       "id" : 5,
