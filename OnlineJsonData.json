@@ -57,7 +57,7 @@
       "state" : "free",
       "title" : "-------------------------------------------------------------------------------------",
       "description" : "",
-      "written" : "“Bazaar” is a platform for the offering of Android applications and games developed by the Avayeh Hooshmand Hamrah Hezardastan company and is currently owned by the Hezardastan Technology Development Group."
+      "written" : "“Cafe Bazaar (Persian: کافه بازار) is an Iranian Android marketplace founded in April 2011 by Reza Mohammadi and Hessam Armandehi. In April 2019 Cafe Bazaar announced it has surpassed 40 million users. Cafe Bazaar provides its services specifically to Persian-speaking users and offers more than 25,000 downloadable Iranian and international apps for gaming, social media, messaging and other uses."
     },
     {
       "id" : 2,
@@ -65,42 +65,34 @@
       "state" : "free",
       "title" : "-------------------------------------------------------------------------------------",
       "description" : "",
-      "written" : "Test written 2"
-    },
-    {
-      "id" : 3,
-      "imageURL" : "https://dadamou.github.io/bazzaar/Cafe%20Bazaar%20Today.png",
-      "state" : "free",
-      "title" : "-------------------------------------------------------------------------------------",
-      "description" : "",
       "written" : "Cafe Bazaar is striving to provide advantages to other Android stores, whether domestic or abroad, and to optimize and localize our services for Iranian users. Below are some examples from the broad array of services we provide: Publishing applications and games in Farsi; Providing easy payment services for domestic users; Selected content chosen by Cafe Bazaar editors."
     },
     {
-      "id" : 4,
+      "id" : 3,
       "imageURL" : "https://dadamou.github.io/bazzaar/Shareholders%20and%20firms.png",
       "state" : "free",
       "title" : "-------------------------------------------------------------------------------------",
       "description" : "",
-      "written" : "-------------------------------------------------------------------------------------"
+      "written" : "Cafe Bazaar was developed by the Avayeh Hooshman Hamrah Hezardastan company and is currently owned by the Hezardastan Technology Development Group."
+    },
+    {
+      "id" : 4,
+      "imageURL" : "https://dadamou.github.io/bazzaar/Register%20on%20the%20site.png",
+      "state" : "free",
+      "title" : "-------------------------------------------------------------------------------------",
+      "description" : "",
+      "written" : "The New Cafe Bazaar Press Information Forum Cafe Bazaar is the largest applications and mobile games store in Iran with over 40 million users. This forum was created to provide news and updates about Cafe Bazaar to journalists worldwide."
     },
     {
       "id" : 5,
-      "imageURL" : "https://dadamou.github.io/bazzaar/1024-500.png",
+      "imageURL" : "https://dadamou.github.io/bazzaar/DISCLAIMER.png",
       "state" : "free",
-      "title" : "Test title 5",
+      "title" : "-------------------------------------------------------------------------------------",
       "description" : "",
-      "written" : "Test written 5"
+      "written" : "This is not a Bazaar cafe official app, This is an UNOFFICIAL Bazaar market app guide created by fans, not associated or affiliated with developers of any app or any of their partners."
     },
     {
       "id" : 6,
-      "imageURL" : "https://dadamou.github.io/bazzaar/1024-500.png",
-      "state" : "free",
-      "title" : "Test title 6",
-      "description" : "",
-      "written" : "Test written 6"
-    },
-    {
-      "id" : 7,
       "imageURL" : "https://dadamou.github.io/bazzaar/1024-500.png",
       "state" : "vip",
       "title" : "Test title 7",
@@ -108,12 +100,12 @@
       "written" : "Test written 7"
     },
     {
-      "id" : 8,
-      "imageURL" : "https://dadamou.github.io/bazzaar/1024-500.png",
-      "state" : "vip",
-      "title" : "Test title 8",
+      "id" : 7,
+      "imageURL" : "https://dadamou.github.io/bazzaar/DISCLAIMER.png",
+      "state" : "free",
+      "title" : "-------------------------------------------------------------------------------------",
       "description" : "",
-      "written" : "Test written 8"
+      "written" : "This is not a Bazaar cafe official app, This is an UNOFFICIAL Bazaar market app guide created by fans, not associated or affiliated with developers of any app or any of their partners"
     }
   ]
 }
