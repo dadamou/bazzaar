@@ -47,7 +47,7 @@
       "id" : 0,
       "imageURL" : "https://dadamou.github.io/bazzaar/title.png",
       "state" : "free",
-      "title" : "-------------------------------------------------------------------------------------",
+      "title" : "",
       "description" : "",
       "written" : "The New Cafe Bazaar Press Information Forum Cafe Bazaar is the largest applications and mobile games store in Iran with over 40 million users. This forum was created to provide news and updates about Cafe Bazaar to journalists worldwide."
     },
@@ -55,7 +55,7 @@
       "id" : 1,
       "imageURL" : "https://dadamou.github.io/bazzaar/About%20Cafe%20Bazaar.png",
       "state" : "free",
-      "title" : "-------------------------------------------------------------------------------------",
+      "title" : "",
       "description" : "",
       "written" : "“Cafe Bazaar (Persian: کافه بازار) is an Iranian Android marketplace founded in April 2011 by Reza Mohammadi and Hessam Armandehi. In April 2019 Cafe Bazaar announced it has surpassed 40 million users. Cafe Bazaar provides its services specifically to Persian-speaking users and offers more than 25,000 downloadable Iranian and international apps for gaming, social media, messaging and other uses."
     },
@@ -63,7 +63,7 @@
       "id" : 2,
       "imageURL" : "https://dadamou.github.io/bazzaar/What%20do%20we%20do.png",
       "state" : "free",
-      "title" : "-------------------------------------------------------------------------------------",
+      "title" : "",
       "description" : "",
       "written" : "Cafe Bazaar is striving to provide advantages to other Android stores, whether domestic or abroad, and to optimize and localize our services for Iranian users. Below are some examples from the broad array of services we provide: Publishing applications and games in Farsi; Providing easy payment services for domestic users; Selected content chosen by Cafe Bazaar editors."
     },
@@ -71,7 +71,7 @@
       "id" : 3,
       "imageURL" : "https://dadamou.github.io/bazzaar/Shareholders%20and%20firms.png",
       "state" : "free",
-      "title" : "-------------------------------------------------------------------------------------",
+      "title" : "",
       "description" : "",
       "written" : "Cafe Bazaar was developed by the Avayeh Hooshman Hamrah Hezardastan company and is currently owned by the Hezardastan Technology Development Group."
     },
@@ -95,23 +95,15 @@
      "id" : 6,
       "imageURL" : "https://dadamou.github.io/bazzaar/Register%20on%20the%20site1.png",
       "state" : "vip",
-      "title" : "Register on the site : Tips1",
-      "description" : "",
-      "written" : "After that, a window like the picture below will bloom for you asking you to add your number if you are a user, and a message will be sent to you on your phone containing an activation code and after entering you, you only have to search for your favorite application and start using the Bazar website and download applications."
-    },
-      {
-     "id" : 7,
-      "imageURL" : "https://dadamou.github.io/bazzaar/Register%20on%20the%20site1.png",
-      "state" : "vip",
-      "title" : "Register on the site : Tips2",
+      "title" : "Register on the site : Tips",
       "description" : "",
       "written" : "After that, a window like the picture below will bloom for you asking you to add your number if you are a user, and a message will be sent to you on your phone containing an activation code and after entering you, you only have to search for your favorite application and start using the Bazar website and download applications."
     },
     {
-      "id" : 8,
+      "id" : 7,
       "imageURL" : "https://dadamou.github.io/bazzaar/DISCLAIMER.png",
       "state" : "free",
-      "title" : "-------------------------------------------------------------------------------------",
+      "title" : "",
       "description" : "",
       "written" : "This is not a Bazaar cafe official app, This is an UNOFFICIAL Bazaar market app guide created by fans, not associated or affiliated with developers of any app or any of their partners"
     }
