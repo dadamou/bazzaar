@@ -47,9 +47,9 @@
       "id" : 0,
       "imageURL" : "https://dadamou.github.io/bazzaar/title.png",
       "state" : "free",
-      "title" : "",
+      "title" : "-------------------------------------------------------------------------------------",
       "description" : "",
-      "written" : ""
+      "written" : "The New Cafe Bazaar Press Information Forum Cafe Bazaar is the largest applications and mobile games store in Iran with over 40 million users. This forum was created to provide news and updates about Cafe Bazaar to journalists worldwide."
     },
     {
       "id" : 1,
@@ -87,9 +87,9 @@
       "id" : 5,
       "imageURL" : "https://dadamou.github.io/bazzaar/Register%20on%20the%20site.png",
       "state" : "vip",
-      "title" : "-------------------------------------------------------------------------------------",
-      "description" : "Register on the site ?",
-      "written" : "The New Cafe Bazaar Press Information Forum Cafe Bazaar is the largest applications and mobile games store in Iran with over 40 million users. This forum was created to provide news and updates about Cafe Bazaar to journalists worldwide."
+      "title" : "Register on the site ?",
+      "description" : "",
+      "written" : "The New Cafe Bazaar It is one of the easiest registration processes, whether you are a user or a developer of Android applications, we will explain a method Simply register and log in to the site. In the image below, you click on the word LOG IN."
     },
     {
      "id" : 6,
@@ -97,7 +97,7 @@
       "state" : "vip",
       "title" : "Register on the site: Tips1",
       "description" : "",
-      "written" : "Bazar website offers us an easy and simple user experience as it provides a lot of solutions to use the site as it provides you next to the platform provides an Android application that you can install on your mobile phone for easy downloading of applications as is the case in Google Play All you have to do now is to go to the site via the link Next: The Bazra website link after entering the site will ask you whether you would like to download their application or continue browsing the site as it appears to you in the following picture"
+      "written" : "After that, a window like the picture below will bloom for you asking you to add your number if you are a user, and a message will be sent to you on your phone containing an activation code and after entering you, you only have to search for your favorite application and start using the Bazar website and download applications."
     },
     {
       "id" : 7,
