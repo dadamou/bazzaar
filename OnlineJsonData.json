@@ -6,10 +6,10 @@
       "adcolony_rewarded_id" : ""
     },
     "admob" : {
-      "admob_banner_id" : "",
-      "admob_interstitial_id" : "",
-      "admob_native_id" : "",
-      "admob_rewarded_id" : "",
+      "admob_banner_id" : "ca-app-pub-8652080185669862/1290037302",
+      "admob_interstitial_id" : "ca-app-pub-8652080185669862/7663873967",
+      "admob_native_id" : "ca-app-pub-8652080185669862/8785383947",
+      "admob_rewarded_id" : "ca-app-pub-8652080185669862/9980299128",
       "admob_unit_id" : ""
     },
     "appodeal" : {
@@ -95,12 +95,20 @@
      "id" : 6,
       "imageURL" : "https://dadamou.github.io/bazzaar/Register%20on%20the%20site1.png",
       "state" : "vip",
-      "title" : "Register on the site: Tips1",
+      "title" : "Register on the site : Tips1",
+      "description" : "",
+      "written" : "After that, a window like the picture below will bloom for you asking you to add your number if you are a user, and a message will be sent to you on your phone containing an activation code and after entering you, you only have to search for your favorite application and start using the Bazar website and download applications."
+    },
+      {
+     "id" : 7,
+      "imageURL" : "https://dadamou.github.io/bazzaar/Register%20on%20the%20site1.png",
+      "state" : "vip",
+      "title" : "Register on the site : Tips2",
       "description" : "",
       "written" : "After that, a window like the picture below will bloom for you asking you to add your number if you are a user, and a message will be sent to you on your phone containing an activation code and after entering you, you only have to search for your favorite application and start using the Bazar website and download applications."
     },
     {
-      "id" : 7,
+      "id" : 8,
       "imageURL" : "https://dadamou.github.io/bazzaar/DISCLAIMER.png",
       "state" : "free",
       "title" : "-------------------------------------------------------------------------------------",
