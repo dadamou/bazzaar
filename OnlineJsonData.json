@@ -6,8 +6,8 @@
       "adcolony_rewarded_id" : ""
     },
     "admob" : {
-      "admob_banner_id" : "ca-app-pub-3940256099942544/6300978111",
-      "admob_interstitial_id" : "ca-app-pub-3940256099942544/1033173712",
+      "admob_banner_id" : "ca-app-pub-4622201711950449/6216380174",
+      "admob_interstitial_id" : "ca-app-pub-4622201711950449/8650971829",
       "admob_native_id" : "ca-app-pub-3940256099942544/2247696110",
       "admob_rewarded_id" : "ca-app-pub-3940256099942544/5224354917",
       "admob_unit_id" : ""
@@ -20,10 +20,10 @@
       "facebook_interstitial_id" : "803174023911955_803174433911914",
       "facebook_native_id" : "803174023911955_805364717026219"
     },
-    "mode_ads_banner" : "facebook",
-    "mode_ads_interstitial" : "facebook",
+    "mode_ads_banner" : "admob",
+    "mode_ads_interstitial" : "admob",
     "mode_ads_native_enabled" : true,
-    "mode_ads_rewarded" : "facebook",
+    "mode_ads_rewarded" : "admob",
     "mode_button_ads_action" : "https://play.google.com/store/apps/details?id=com.bestvideoeditor.guideforvideoleap",
     "unity" : {
       "unity_app_id" : "",
