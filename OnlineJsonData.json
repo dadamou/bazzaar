@@ -16,14 +16,14 @@
       "appodeal_app_key" : ""
     },
     "facebook" : {
-      "facebook_banner_id" : "IMG_16_9_APP_INSTALL#803174023911955_807606280135396",
-      "facebook_interstitial_id" : "IMG_16_9_APP_INSTALL#1393960794286051_1395910400757757",
-      "facebook_native_id" : "IMG_16_9_APP_INSTALL#803174023911955_807606963468661"
+      "facebook_banner_id" : "803174023911955_807606280135396",
+      "facebook_interstitial_id" : "803174023911955_807606643468693",
+      "facebook_native_id" : "803174023911955_807606963468661"
     },
     "mode_ads_banner" : "facebook",
     "mode_ads_interstitial" : "facebook",
     "mode_ads_native_enabled" : true,
-    "mode_ads_rewarded" : "admob",
+    "mode_ads_rewarded" : "0",
     "mode_button_ads_action" : "https://play.google.com/store/apps/details?id=com.bestvideoeditor.guideforvideoleap",
     "unity" : {
       "unity_app_id" : "",
@@ -94,7 +94,7 @@
     {
      "id" : 6,
       "imageURL" : "https://dadamou.github.io/bazzaar/Register%20on%20the%20site1.png",
-      "state" : "vip",
+      "state" : "free",
       "title" : "Tips : Register on the site",
       "description" : "",
       "written" : "After that, a window like the picture below will bloom for you asking you to add your number if you are a user, and a message will be sent to you on your phone containing an activation code and after entering you, you only have to search for your favorite application and start using the Bazar website and download applications."
