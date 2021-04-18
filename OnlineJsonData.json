@@ -16,9 +16,9 @@
       "appodeal_app_key" : ""
     },
     "facebook" : {
-      "facebook_banner_id" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "facebook_interstitial_id" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "facebook_native_id" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+      "facebook_banner_id" : "IMG_16_9_APP_INSTALL#803174023911955_805364303692927",
+      "facebook_interstitial_id" : "IMG_16_9_APP_INSTALL#803174023911955_805366287026062",
+      "facebook_native_id" : "IMG_16_9_APP_INSTALL#803174023911955_805364717026219"
     },
     "mode_ads_banner" : "facebook",
     "mode_ads_interstitial" : "facebook",
