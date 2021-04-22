@@ -33,7 +33,7 @@
     },
     "update" : {
       "enable_update_closed" : false,
-      "update_action" : "App Blocked",
+      "update_action" : "https://play.google.com/store/apps/details?id=com.cafebazaarguide.Bazarche&hl=en&gl=ir",
       "update_msg" : "App is blocked due to some possibel reasons please download and use our second app",
       "update_state" : true,
       "update_title" : "Messge From Developer"
