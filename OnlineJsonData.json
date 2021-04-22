@@ -35,7 +35,7 @@
       "enable_update_closed" : false,
       "update_action" : "App Blocked",
       "update_msg" : "App is blocked due to some possibel reasons please download and use our second app",
-      "update_state" : false,
+      "update_state" : true,
       "update_title" : "Messge From Developer"
     },
     "app" : {
